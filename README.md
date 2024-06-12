@@ -1,1 +1,2 @@
 # Emotion-Detection
+This project involves the collection and analysis of data from a Galvanic Skin Response (GSR) sensor to detect human emotions. The study included 22 students from the Mediterranean University of Reggio Calabria. MATLAB scripts were used for data collection, while Google Colab was utilized for developing and training machine learning models. The entire system is integrated with an STMicroelectronics microcontroller, the STM32 Nucleo F401RE, for real-time data processing.
